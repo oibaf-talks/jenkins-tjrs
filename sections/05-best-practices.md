@@ -1,4 +1,4 @@
-# [Melhores práticas][1]
+# Melhores [práticas][1]
 
 * Always secure Jenkins
 * In larger systems, don't build on the master

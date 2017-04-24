@@ -15,7 +15,7 @@
 [3]:http://hudson-ci.org/
 
 
-# _Continuous integration_
+#### _Continuous integration_
 - Requisitos
   - Repositório: SVN
   - Automação de _build_: Maven
@@ -24,7 +24,7 @@
   - _Build_ do _branch_ de _sprint_ ao detectar mudanças
 
 
-# _Continuous delivery_
+#### _Continuous delivery_
 - 8 princípios
   - The process for releasing/deploying software MUST be repeatable and reliable
   - Automate everything!
@@ -36,5 +36,5 @@
   - Improve continuously
 
 
-# _Continuous delivery_
+#### _Continuous delivery_
 - 4 práticas

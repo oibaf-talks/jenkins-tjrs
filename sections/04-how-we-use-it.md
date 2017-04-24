@@ -16,7 +16,7 @@
 
 #### Build
 
-- Regra hoje é fazer em _slaves_ Docker ([imagens][1])
+- Regra hoje é fazer em _slaves_ Docker ( [imagens][1] )
 - Maioria hoje faz no _master_
 - Sem testes...
 - Tecnologias suportadas:

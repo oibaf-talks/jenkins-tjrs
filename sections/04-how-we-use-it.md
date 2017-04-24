@@ -25,6 +25,8 @@
   - Angular2 (angular-cli)
   - Delphi XE (Object Pascal)
 
+[1]:https://hub.docker.com/r/tramasoli/base-images/
+
 
 #### Sonar (QA)
 
@@ -32,4 +34,3 @@
 - Uma vez ao dia
 - Primeiro uso de imagens Docker (experimentação sem riscos)
 
-[1]:https://hub.docker.com/r/tramasoli/base-images/

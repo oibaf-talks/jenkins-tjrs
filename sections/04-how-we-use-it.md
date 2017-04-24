@@ -4,12 +4,13 @@
   - no próprio _master_
   - configurados em Docker
   - máquinas Windows 7 (para Deplhi XE)
+
+#### _Pipelines_
 - _Pipelines_ compostos de
   - _Build_
   - _Deploy_ em DEV
   - _Deploy_ em HML
   - _Delivery_for_PM_
-- _Jobs_ em separado para Sonar (análise de código)
 
 
 #### Build
@@ -26,8 +27,8 @@
 
 #### Sonar (QA)
 
+- _Jobs_ em separado para Sonar (análise de código)
 - Uma vez ao dia
 - Primeiro uso de imagens Docker (experimentação sem riscos)
-- Não interfere no _pipeline_ (ruim)
 
 [1]:https://hub.docker.com/r/tramasoli/base-images/

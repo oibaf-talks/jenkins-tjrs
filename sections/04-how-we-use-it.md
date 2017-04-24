@@ -5,6 +5,7 @@
   - configurados em Docker
   - máquinas Windows 7 (para Deplhi XE)
 
+
 #### _Pipelines_
 - _Pipelines_ compostos de
   - _Build_

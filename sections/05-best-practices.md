@@ -1,4 +1,4 @@
-# [Best practices][1] :)
+# Melhores práticas
 
 * Always secure Jenkins
 * In larger systems, don't build on the master
@@ -31,5 +31,5 @@
 * Write jobs for your maintenance tasks, such as cleanup operations to avoid full disk problems
 * Tag, label, or baseline the codebase after the successful build
 
-[1]:https://wiki.jenkins-ci.org/display/JENKINS/Jenkins+Best+Practices
+fonte: https://wiki.jenkins-ci.org/display/JENKINS/Jenkins+Best+Practices
 

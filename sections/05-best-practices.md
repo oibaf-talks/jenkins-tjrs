@@ -1,4 +1,4 @@
-# Melhores práticas
+### Melhores práticas
 
 * Always secure Jenkins
 * In larger systems, don't build on the master
@@ -7,7 +7,7 @@
 * Use "file fingerprinting" to manage dependencies
 
 
-# Melhores práticas (cont.)
+### Melhores práticas (cont.)
 
 * The most reliable builds will be clean builds, which are built fully from Source Code Control
 * Integrate tightly with your issue tracking system, like JIRA or bugzilla, to reduce the need for maintaining a Change Log
@@ -16,7 +16,7 @@
 * Set up Jenkins on the partition that has the most free disk-space
 
 
-# Melhores práticas (cont.)
+### Melhores práticas (cont.)
 
 * Archive unused jobs before removing them
 * Setup a different job/project for each maintenance or development branch you create
@@ -25,7 +25,7 @@
 * Set up email notifications mapping to ALL developers in the project, so that everyone on the team has his pulse on the project's current status
 
 
-# Melhores práticas (cont.)
+### Melhores práticas (cont.)
 
 * Take steps to ensure failures are reported as soon as possible
 * Write jobs for your maintenance tasks, such as cleanup operations to avoid full disk problems

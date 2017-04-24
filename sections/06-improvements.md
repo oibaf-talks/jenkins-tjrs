@@ -1,4 +1,4 @@
-# Melhorias (sendo|já) feitas
+### Melhorias (sendo|já) feitas
 
 - _Builds_ fora do _master_
 - Padronização de nomes de _jobs_
@@ -7,7 +7,7 @@
 - SVN _flow_ automatizado como _job_
 
 
-## Uso de [Groovy][1]
+#### Uso de [Groovy][1]
 
 - Jenkins suporta Groovy para sua própria automação
 - Criação dos TEMPLATE e ENFORCER _jobs_, ex.:
